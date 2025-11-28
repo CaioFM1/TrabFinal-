@@ -42,11 +42,11 @@ Todos os comandos foram executados via terminal usando **SSH**.
 
 ### 🔹 Comandos de Caio
 ```bash
-git config --global user.name "Caio Fornaciari"
-git config --global user.email "seuemail@example.com"
+git config --global user.name "CaioFM1"
+git config --global user.email "caio.fornaciari@edu.unifil.br"
 
-git clone git@github.com:usuario/repositorio.git
+git clone git@github.com:CaioFM1/TrabFinal-.git
 
 git add algoritmo.por
-git commit -m "Criação da estrutura inicial"
-git push -u origin main
+git commit -m "Algoritmo Soma"
+git push origin 
