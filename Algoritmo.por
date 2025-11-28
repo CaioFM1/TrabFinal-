@@ -1,26 +1,23 @@
 // -------------------------------------------------------------
-// Algoritmo desenvolvido colaborativamente pelo grupo
-// Cada integrante adicionou uma parte conforme orientado
+// Algoritmo de Soma
+// Solicita dois números ao usuário e exibe a soma
 // -------------------------------------------------------------
 
-algoritmo "CalculoMedia"
+algoritmo "Soma"
 
-// Declaração de variáveis
 var
-    nota1, nota2, nota3 : real
-    media : real
+    numero1, numero2, resultado : real
 
 inicio
 
-    // Entrada de dados
-    escreva("Digite a primeira nota: ")
-    leia(nota1)
+    escreva("Digite o primeiro número: ")
+    leia(numero1)
 
-    escreva("Digite a segunda nota: ")
-    leia(nota2)
+    escreva("Digite o segundo número: ")
+    leia(numero2)
 
-    escreva("Digite a terceira nota: ")
-    leia(nota3)
+    resultado <- numero1 + numero2
 
-    // Cálculo da média (Integrante 2 pode editar aqui)
-    media <- (nota1 + nota2 + nota3) / 3
+    escreva("A soma é: ", resultado)
+
+fimalgoritmo
