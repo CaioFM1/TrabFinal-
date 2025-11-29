@@ -65,6 +65,11 @@ git clone git@github.com:CaioFM1/TrabFinal-.git
 git add algoritmo.por
 git commit -m "Algoritmo Soma"
 git push origin 
+git checkout -b soma-update
+git add .
+git commit -m "soma updated"
+git push -u origin soma-update
+git checkout main
 ```
 
 ### 🔹 Comandos de Mitsuo
