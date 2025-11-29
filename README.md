@@ -2,7 +2,7 @@
 
 ## 👥 Integrantes do grupo
 - Caio Fornaciari  
-
+- Mitsuo Nakamura Sena
 ---
 
 ## 🎯 Objetivo
@@ -34,6 +34,21 @@ Cada membro contribuiu em uma etapa específica do algoritmo, sempre realizando 
 
 ---
 
+### 🧑‍💻 Mitsuo Nakamura
+**1. Início do projeto**
+- Criou o arquivo `algoritmo.por` com a estrutura inicial:
+  - Declaração de variáveis
+  - Entrada de dados
+  - Estrutura base do algoritmo
+- Criou a segunda versão do `README.md`.
+
+**2. Commits realizados**
+- Commit contendo a estrutura final do projeto.
+- Pull da primeira versão.
+- Push da ultima versão.
+
+---
+
 ## 💻 Comandos utilizados
 
 Todos os comandos foram executados via terminal usando **SSH**.
@@ -49,4 +64,15 @@ git clone git@github.com:CaioFM1/TrabFinal-.git
 
 git add algoritmo.por
 git commit -m "Algoritmo Soma"
+git push origin 
+
+### 🔹 Comandos de Mitsuo
+```bash
+git config --global user.name "Mitsuo"
+git config --global user.email "mitsuo.nakamura@edu.unifil.br"
+
+git clone git@github.com:CaioFM1/TrabFinal-.git
+git pull
+git add .
+git commit -m "Algoritmo Subtracao"
 git push origin 
