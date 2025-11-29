@@ -82,5 +82,9 @@ git pull
 git add .
 git commit -m "Algoritmo Subtracao"
 git push origin 
+git checkout -b subupdate
+git add .
+git commit -m "Arrumando Readme"
+git push -u origin subupdate
 ```
 
