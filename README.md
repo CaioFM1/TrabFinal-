@@ -36,10 +36,10 @@ Cada membro contribuiu em uma etapa específica do algoritmo, sempre realizando 
 
 ### 🧑‍💻 Mitsuo Nakamura
 **1. Início do projeto**
-- Criou o arquivo `algoritmo.por` com a estrutura inicial:
+- Editou o arquivo `algoritmo.por` com a estrutura final:
   - Declaração de variáveis
   - Entrada de dados
-  - Estrutura base do algoritmo
+  - Estrutura do algoritmo de subtração
 - Criou a segunda versão do `README.md`.
 
 **2. Commits realizados**
