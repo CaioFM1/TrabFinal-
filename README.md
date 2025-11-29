@@ -65,6 +65,7 @@ git clone git@github.com:CaioFM1/TrabFinal-.git
 git add algoritmo.por
 git commit -m "Algoritmo Soma"
 git push origin 
+```
 
 ### 🔹 Comandos de Mitsuo
 ```bash
@@ -76,3 +77,5 @@ git pull
 git add .
 git commit -m "Algoritmo Subtracao"
 git push origin 
+```
+
