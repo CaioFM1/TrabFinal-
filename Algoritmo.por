@@ -3,7 +3,7 @@
 // Solicita dois números ao usuário e exibe a soma
 // -------------------------------------------------------------
 
-algoritmo "Soma"
+algoritmo "Soma Updated"
 
 var
     numero1, numero2, resultado : real
